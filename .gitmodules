@@ -1,0 +1,3 @@
+[submodule "www/share-it"]
+	path = www/share-it
+	url = git@github.com:ansyna/share-it.git
